@@ -1,0 +1,84 @@
+h1{
+	color:red;
+	font-size:100px;
+	font-weight:bold;
+	text-align:center;
+	font-style:unset;
+}
+body{
+	/*background-color:yellow;*/
+	font-family:Arial;
+	line-height:1.5em;
+}/*you can also write Fonts out as a string for short*/
+.box_1{
+	background-color:darkblue;
+	border-radius: 10px;
+}
+.box_0{
+	border:70px 30px 70px 30px;
+	background-color:green;
+	border-radius: 20px;
+}
+html{
+	background-image:url("background1.jpg");
+}
+h2{
+	font-size:20px;
+	color:red;
+}
+h3{
+	text-align:right;
+
+}
+.box_4{
+	border:100px 50px 100px 50px;
+	background-color:black;
+	color: olivedrab;
+}
+.box_6{
+	text-align:right;
+}
+.container {
+display:flex;
+justify-content:center;
+}
+.card{
+	background-color: darkblue;
+	width:270px;
+	height:390px;
+	margin:10px;
+	border-radius: 15px;
+}
+.card-image{
+	background-color: burlywood;
+	height:170px;
+	margin-bottom:15px;
+	background-size: cover;
+	border-radius: 15px 15px 0 0;
+}
+.car-1{
+	background-image: url("img/card1.jpg");
+}
+.car-2{
+	background-image: url("img/card2.jpg");
+}
+.car-3{
+	background-image: url("img/card3.jpg");
+}
+.car-4{
+	background-image: url("img/card4.jpg");
+}
+h7{
+	font:bold;
+	color:black;
+}
+p{
+	color: white;
+	font-style: Arial;
+}
+li{
+	color:white;
+}
+h7{
+	color:red;
+}
